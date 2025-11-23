@@ -1,109 +1,119 @@
-<!--
-Fill this template with your info by replacing ALL CAPS text.
-Delete this comment when you're done.
--->
+<h1 align="center">Hi, I'm Nasim 👩‍💻💖</h1>
 
-# Hi, I'm Nasim 👋
+<p align="center">
+  <em>Senior Full‑Stack Developer (Java + React) & Data / Analytics Enthusiast</em>  
+  <br/>
+  Based in Stockholm, Sweden 🇸🇪
+</p>
 
-**YOUR ROLE** · **YOUR MAIN STACK**  
-📍 YOUR CITY / COUNTRY · 📫 [your.email@example.com](mailto:your.email@example.com)  
-
-[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Portfolio](https://YOUR-PORTFOLIO.com) · [Resume](LINK-TO-RESUME-PDF-OR-DRIVE)
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 I’m currently working on: **SHORT DESCRIPTION OF MAIN PROJECT / JOB**
-- 🌱 I’m learning: **TECH/TOOLS YOU’RE LEARNING (e.g. Docker, Kubernetes, Next.js, ML, etc.)**
-- 💬 Ask me about: **YOUR STRENGTHS (e.g. backend APIs, React apps, data pipelines)**
-- 🎯 Goals: **1–2 lines about your career goals or what you want to work on**
+<p align="center">
+  <a href="mailto:maleki.nasim@gmail.com">💌 Email</a> ·
+  <a href="https://www.linkedin.com/in/nasim-maleki/">💼 LinkedIn</a> ·
+  <a href="https://github.com/malekinasim">🐙 GitHub</a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+### ✨ About me
 
-**Languages**  
-`Python` · `JavaScript` · `TypeScript` · `Java` · `C++`  
-> Replace with the languages you actually use
-
-**Frameworks & Libraries**  
-`React` · `Node.js` · `Express` · `Django` · `Spring Boot`  
-> Replace with your real stack
-
-**Databases & Cloud / Tools**  
-`PostgreSQL` · `MongoDB` · `MySQL` · `Git` · `Docker` · `AWS`  
-> Again: swap these with your own tools
+- 👩‍🎓 M.Sc. Business Intelligence student @ Dalarna University (statistical learning, Python-based data analysis, BI)
+- 👩‍💻 12+ years of experience in software engineering & large-scale enterprise systems (Java, Spring Boot, microservices)
+- 💗 I love the intersection of backend, data and product – especially user-facing digital experiences like audio/streaming & customer journeys
+- 🤝 I enjoy working with cross-functional teams (product, engineering, analytics) and turning questions into experiments, metrics and insights
 
 ---
 
-## 📂 Featured Projects
+### 👑 Tech stack (a bit pink, a bit nerdy)
 
-> Tip: after creating repos, go to your profile → **Customize your pins** → pin the best 4–6 projects.
+**Backend & APIs**
 
-### 🔹 [PROJECT NAME 1](https://github.com/YOUR-USERNAME/YOUR-REPO-1)
-**What it is:** 1–2 line description (e.g. “Full‑stack task manager with authentication and real‑time updates”)  
-**Tech:** React, Node.js, Express, MongoDB  
-**Highlights:**
-- Built X using Y that resulted in Z (e.g. “Cut manual work by 40%”)
-- Implemented FEATURE (e.g. JWT auth, file uploads, charts, etc.)
-- Deployed on PLATFORM (Render / Vercel / Netlify / AWS)
+`Java` ☕ · `Spring Boot` 🌿 · `REST APIs` · `Microservices` · `Spring Security (OAuth2/JWT/OIDC)` · `Kafka` 🐦  
 
-### 🔹 [PROJECT NAME 2](https://github.com/YOUR-USERNAME/YOUR-REPO-2)
-**What it is:** …  
-**Tech:** …  
-**Highlights:**
-- …
-- …
+**Frontend**
 
-### 🔹 More Projects
-- [PROJECT 3](https://github.com/YOUR-USERNAME/PROJECT-3) – one‑line summary  
-- [PROJECT 4](https://github.com/YOUR-USERNAME/PROJECT-4) – one‑line summary  
+`React` ⚛️ · `JavaScript (ES6+)` ✨ · `HTML5` · `CSS3`
 
----
+**Data & Analytics**
 
-## 💼 Experience
+`Python` 🐍 (Pandas, NumPy, matplotlib, scikit‑learn) · `R` 📊 · `SQL` (PostgreSQL, Oracle, MySQL, MongoDB) · `Power BI` · `Oracle BI (OBIEE)`  
 
-**JOB TITLE – COMPANY NAME**  
-*Month YYYY – Present · City, Country*
+**Data & Systems**
 
-- Built **WHAT** using **TECH**, which led to **RESULT**  
-- Worked with **N** teammates on **X** (mention code reviews, agile, etc.)  
-- Owned **FEATURE / SYSTEM / RESPONSIBILITY**
+Data modelling & ER modelling · Understanding of ETL & data integration · Working with complex enterprise data flows  
 
-**PREVIOUS ROLE – COMPANY NAME**  
-*Month YYYY – Month YYYY · City, Country*
+**DevOps & Tools**
 
-- Bullet 1 focused on tech + impact  
-- Bullet 2 focused on ownership / leadership  
-- Bullet 3 focused on problem‑solving / performance
+`Git` · `GitHub` · `Docker` 🐳 · `Kubernetes` (basic) · `GitHub Actions` / `GitLab CI/CD` · Agile/Scrum ways of working  
 
 ---
 
-## 🎓 Education
+### 📚 Data & analytics projects
 
-**DEGREE, MAJOR – SCHOOL NAME**  
-*Month YYYY – Month YYYY*
+- 🎓 **Ten‑Year Trends in Grade 9 Math Pass Rates**  
+  OLS regression with municipality fixed effects on education, income and political data to study math pass rates and derive policy insights.  
+  🔗 Repo: [statistical_Learning_assignment_project](https://github.com/malekinasim/statistical_Learning_assignment_project)
 
-- Relevant coursework: Course 1, Course 2, Course 3  
-- Highlights: GPA (if good), awards, clubs, hackathons, etc.
+- 👩‍🏫 **Student Performance Prediction & Clustering**  
+  Classification (Decision Trees, SVM, Random Forest) and clustering (k‑means, hierarchical) on ~10,000‑student dataset to analyse learning behaviour & performance.  
+  🔗 Repo: [student_grading_prediction](https://github.com/malekinasim/student_grading_prediction)
+
+- 🧑‍💼 **Employee Promotion Prediction**  
+  Interpretable ML models (Logistic Regression, SVM, Random Forest) to identify drivers of promotion and support fair, data‑driven HR decisions.  
+  🔗 Repo: [Employee_Promotion_Prediction](https://github.com/malekinasim/Employee_Promotion_Prediction)
+
+- 🌿 **Greenwashing Detection in Corporate Advertising**  
+  Python pipeline (PyMuPDF, pdf2image, OpenCV) to extract images/metadata from CSR reports and compute a “greenwashing score”, plus R/ggplot visualisations.  
+  🔗 Repo: [greenWashingDetection_prj](https://github.com/malekinasim/greenWashingDetection_prj)
 
 ---
 
-## 📜 Certifications
+### 💻 Software engineering & full‑stack projects
 
-- Certification Name – Issuer (Year)  
-- Certification Name – Issuer (Year)
+- 🌀 **HAMSOO – BPMN‑based Process Management Platform**  
+  End‑to‑end DB schema, Spring Boot backend APIs, and React SPA for BPMN 2.0 process management, KPIs dashboards, collaboration & versioning; secured with Spring Security & Keycloak.  
+  🔗 Backend: [Hamsoo_Backend](https://github.com/malekinasim/Hamsoo_Backend)  
+  🔗 Frontend: [Hamsoo_frontend](https://github.com/malekinasim/Hamsoo_frontend)
+
+- ⚙️ **IAMS – Integrated Transformation Actions Management System**  
+  Kafka‑backed Spring Boot microservices processing 100,000+ actions/year with Redis caching, SQL tuning, and React dashboards for monitoring & reporting (internal project).
+
+- ✅ **AUD – Audit Management System**  
+  Audit/compliance microservices with role‑based access control (Spring Security + Keycloak), CI/CD with Docker/Kubernetes and React UI, significantly reducing manual operations (internal project).
 
 ---
 
-## 📫 Connect with Me
+### 🌸 Experience snapshot
 
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE)  
-- Portfolio / Blog: [YOUR-WEBSITE.com](https://YOUR-WEBSITE.com)  
+- 👩‍💻 **Senior Java Backend Developer & Software Analyst – IRISA**  
+  Designed high‑performance Spring Boot microservices, Kafka-based event flows, secure auth with OAuth2/Keycloak, React dashboards, and CI/CD pipelines with Docker & Kubernetes.
 
-<!-- Optionally show profile stats (popular, but not required):
+- 👩‍💻 **Java Backend Developer – Isfahan Municipality Projects**  
+  Built enterprise apps and portals for municipal workflows, SSO/identity management, and business process automation.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
--->
+- 👩‍💻 **Java Backend Developer – System Avaran International Company**  
+  Workflow automation solutions with Oracle BPM for telecom, municipal and industrial clients.
+
+---
+
+### 🎓 Education
+
+- 🎓 M.Sc. in Business Intelligence — Dalarna University (ongoing, Sweden)  
+- 🎓 M.Sc. in Computer Software Engineering — Islamic Azad University  
+- 🎓 B.Sc. in Computer Software Engineering — University of Isfahan  
+
+---
+
+### 🌍 Languages (with cute flags)
+
+- 🇬🇧 **English** — Professional working proficiency  
+- 🇸🇪 **Swedish** — A1 (learning 💪)  
+
+---
+
+### 💌 Let’s connect
+
+- 📮 **Email:** [maleki.nasim@gmail.com](mailto:maleki.nasim@gmail.com)  
+- 💼 **LinkedIn:** [nasim-maleki](https://www.linkedin.com/in/nasim-maleki/)  
+- 🐙 **GitHub:** [malekinasim](https://github.com/malekinasim)  
+
+Thanks for visiting my little corner of GitHub 🌸✨
