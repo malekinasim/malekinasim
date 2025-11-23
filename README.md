@@ -3,7 +3,7 @@ Fill this template with your info by replacing ALL CAPS text.
 Delete this comment when you're done.
 -->
 
-# Hi, I'm YOUR NAME 👋
+# Hi, I'm Nasim 👋
 
 **YOUR ROLE** · **YOUR MAIN STACK**  
 📍 YOUR CITY / COUNTRY · 📫 [your.email@example.com](mailto:your.email@example.com)  
